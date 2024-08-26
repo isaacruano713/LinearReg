@@ -1,5 +1,5 @@
 from typing import Self
-import util as u
+import utils as u
 
 class LinearForm:
     """

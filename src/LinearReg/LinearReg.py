@@ -1,7 +1,7 @@
 from typing import Union
 import numpy as np
 import pandas as pd
-import util as u
+import utils as u
 from LinearForm import LinearForm
 
 
